@@ -2,3 +2,4 @@ hola mundo
 segunda linea
 añadiento tercera linea en hola.txt en la rama nueva y cambiando la extension de hola.text a hola.txt
 añadiento cuarta linea en hola.txt y en la rama nueva
+añadiendo linea para crear conflicto, esto pertenece a nueva2
